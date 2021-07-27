@@ -1,0 +1,41 @@
+section{
+	background-color: pink;
+	border: 2px solid red ;
+}
+h1{
+	text-align: center;
+}
+.row{
+	margin: 20px 0;
+}
+.xrow{
+	margin: 0;
+}
+.row-1{
+	text-align: auto;
+	border: 2px solid white;
+	background-color: yellow;
+}
+.xmb{
+	margin-bottom: 10px;
+}
+.box{
+	background-color: red;
+	border: 5px solid black;
+	/*margin-top: 10px;*/
+	/*margin-bottom: 10px;*/
+	position: relative;
+	height: 100px;
+}
+.box p{
+	font-size: 20px;
+	font-weight: 700;
+	position: absolute;
+	top: 35%;
+	left: 0;
+	right: 0;
+	left: 45%;
+}
+.bggreen{
+	background-color: green;
+}
